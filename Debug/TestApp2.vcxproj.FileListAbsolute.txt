@@ -1,0 +1,2 @@
+D:\TestApp2\SRC\TestApp2\Debug\TestApp2.exe
+D:\TestApp2\SRC\TestApp2\Debug\TestApp2.pdb
